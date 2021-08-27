@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/breakingbad-react-app/static/css/main.ccca5ad4.chunk.css",
+    "main.js": "/breakingbad-react-app/static/js/main.b31b6c92.chunk.js",
+    "main.js.map": "/breakingbad-react-app/static/js/main.b31b6c92.chunk.js.map",
+    "runtime-main.js": "/breakingbad-react-app/static/js/runtime-main.83715d0d.js",
+    "runtime-main.js.map": "/breakingbad-react-app/static/js/runtime-main.83715d0d.js.map",
+    "static/js/2.aa616239.chunk.js": "/breakingbad-react-app/static/js/2.aa616239.chunk.js",
+    "static/js/2.aa616239.chunk.js.map": "/breakingbad-react-app/static/js/2.aa616239.chunk.js.map",
+    "static/js/3.8aa222ff.chunk.js": "/breakingbad-react-app/static/js/3.8aa222ff.chunk.js",
+    "static/js/3.8aa222ff.chunk.js.map": "/breakingbad-react-app/static/js/3.8aa222ff.chunk.js.map",
+    "index.html": "/breakingbad-react-app/index.html",
+    "static/css/main.ccca5ad4.chunk.css.map": "/breakingbad-react-app/static/css/main.ccca5ad4.chunk.css.map",
+    "static/js/2.aa616239.chunk.js.LICENSE.txt": "/breakingbad-react-app/static/js/2.aa616239.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83715d0d.js",
+    "static/js/2.aa616239.chunk.js",
+    "static/css/main.ccca5ad4.chunk.css",
+    "static/js/main.b31b6c92.chunk.js"
+  ]
+}
